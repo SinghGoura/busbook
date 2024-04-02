@@ -1,0 +1,38 @@
+[
+  {
+    "UserName": "John Doe",
+    "UserEmail": "john@example.com",
+    "busName": "XYZ Bus",
+    "date": "2024-03-02",
+    "fromTime": "10:00 AM",
+    "toTime": "12:00 PM",
+    "numberOfSeats": 2
+  },
+  {
+    "UserName": "Gaurav",
+    "UserEmail": "john@example.com",
+    "busName": "abc Bus",
+    "date": "2024-03-01",
+    "fromTime": "10:00 AM",
+    "toTime": "12:00 PM",
+    "numberOfSeats": 2
+  },
+  {
+    "UserName": "Shushant",
+    "UserEmail": "shushant21@gmail.com",
+    "busName": "sandhu",
+    "date": "2024-03-02",
+    "fromTime": "11:30",
+    "toTime": "01:30",
+    "numberOfSeats": 4
+  },
+  {
+    "UserName": "Niraj",
+    "UserEmail": "niraj231@gmail.com",
+    "busName": "kailvin",
+    "date": "2024-03-05",
+    "fromTime": "12:00",
+    "toTime": "04:00",
+    "numberOfSeats": 4
+  }
+]
